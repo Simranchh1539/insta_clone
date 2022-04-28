@@ -1,0 +1,1 @@
+const otherScreenSize = 600;
