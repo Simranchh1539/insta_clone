@@ -6,7 +6,6 @@ This Application is built in flutter and it is a clone of instagram application.
 
 * Responsive Instagram UI
 * Email & Password Authentication
-* Share Posts with Caption
 * Display Posts with Caption
 * Like & Comment on Posts
 * Search Users
