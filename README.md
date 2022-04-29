@@ -34,9 +34,10 @@ This Application is built in flutter and it is a clone of instagram application.
 | uuid | ^3.0.5 |
 | cached_network_image |  ^2.3.3 |
 | expandable_text |  2.2.0 |
-| shared_preferences |  any |
-| marquee | ^2.2.0 |
-| flutter_slidable | ^1.0.0 |
+| firebase_core |  1.7.0 |
+| firebase_auth | ^3.1.3 |
+| cloud_firestore |  ^2.5.3 |
+| firebase_storage | 10.0.5 |
 
 ## Screens
 
