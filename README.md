@@ -50,7 +50,7 @@ This Application is built in flutter and it is a clone of instagram application.
 ## ScreenShots
 
 ## Login Screen
-<img src="https://user-images.githubusercontent.com/100132569/165878960-ee666c2e-a699-447b-9abc-df535143e9f0.jpeg" alt="Login_one" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165878991-26c5abf9-e169-4c0a-af2b-c0deff527661.jpeg" alt="Login_2" style="width:300px;"/> &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/100132569/165878994-e19a25b4-b64a-40cd-8a80-5134fc4b8273.jpeg" alt="Login_3" style="width:300px;"/>
+<img src="https://user-images.githubusercontent.com/100132569/165878960-ee666c2e-a699-447b-9abc-df535143e9f0.jpeg" alt="Login_one" style="width:300px;"/> &nbsp;  <img src="https://user-images.githubusercontent.com/100132569/165878991-26c5abf9-e169-4c0a-af2b-c0deff527661.jpeg" alt="Login_2" style="width:300px;"/> &nbsp;<img src="https://user-images.githubusercontent.com/100132569/165878994-e19a25b4-b64a-40cd-8a80-5134fc4b8273.jpeg" alt="Login_3" style="width:300px;"/>
 
 ## Signup Screen
 <img src="https://user-images.githubusercontent.com/100132569/165879708-ceb6e711-7da0-41af-a3dc-f4b62af00919.jpeg" alt="Sign_up" style="width:300px;"/>
@@ -58,7 +58,7 @@ This Application is built in flutter and it is a clone of instagram application.
 
 ## Home Screen in Light/Dark Mode
 
-<img src="https://user-images.githubusercontent.com/100132569/165879953-e49173ec-7b9f-411c-8456-df5d78aef3ea.jpeg" alt="Light_theme_home" style="width:300px;"/> <img src="https://user-images.githubusercontent.com/100132569/165879992-388824a3-c0fa-49b7-8cc0-0e8270932818.jpeg" alt="Dark_theme_home" style="width:300px;"/>
+<img src="https://user-images.githubusercontent.com/100132569/165879953-e49173ec-7b9f-411c-8456-df5d78aef3ea.jpeg" alt="Light_theme_home" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165879992-388824a3-c0fa-49b7-8cc0-0e8270932818.jpeg" alt="Dark_theme_home" style="width:300px;"/>
 
 
 ## Add Post Screen
@@ -71,7 +71,7 @@ User can add post by two option :-
 
 Firstly click on add post icon from home screen, then select your option and after image selection screenshot number 3 screen appear.
 
-<img src="https://user-images.githubusercontent.com/100132569/165879953-e49173ec-7b9f-411c-8456-df5d78aef3ea.jpeg" alt="Light_theme_home" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165880542-09d5dae1-ee3d-4354-9948-bce5b4a0bf69.jpeg" alt="Post_2" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165880541-3208d858-25ca-4dc2-868f-77b982e9f075.jpeg" alt="post_3" style="width:300px;"/>
+<img src="https://user-images.githubusercontent.com/100132569/165879953-e49173ec-7b9f-411c-8456-df5d78aef3ea.jpeg" alt="Light_theme_home" style="width:300px;"/> &nbsp;  <img src="https://user-images.githubusercontent.com/100132569/165880542-09d5dae1-ee3d-4354-9948-bce5b4a0bf69.jpeg" alt="Post_2" style="width:300px;"/> &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165880541-3208d858-25ca-4dc2-868f-77b982e9f075.jpeg" alt="post_3" style="width:300px;"/>
 
 ## Like Animation 
 
@@ -87,7 +87,7 @@ Firstly click on add post icon from home screen, then select your option and aft
  * If user is searching then related to that user's search will appear
  * After Click on user screen redirected to that user's profile that current user choose.
 
-<img src="https://user-images.githubusercontent.com/100132569/165882391-24ff1f9a-7cd6-45f6-b744-1e26e331cb1f.jpeg" alt="Light_theme_home" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165882390-282855df-3281-497e-9214-8410bbf68852.jpeg" alt="Post_2" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165882387-e3171475-2073-410b-9d08-565c89206c01.jpeg" alt="post_3" style="width:300px;"/>
+<img src="https://user-images.githubusercontent.com/100132569/165882391-24ff1f9a-7cd6-45f6-b744-1e26e331cb1f.jpeg" alt="Light_theme_home" style="width:300px;"/> &nbsp;  <img src="https://user-images.githubusercontent.com/100132569/165882390-282855df-3281-497e-9214-8410bbf68852.jpeg" alt="Post_2" style="width:300px;"/> &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165882387-e3171475-2073-410b-9d08-565c89206c01.jpeg" alt="post_3" style="width:300px;"/>
 
 ## Reels
 
@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/100132569/165883481-b423efa5-b3a9-493d
 <img src="https://user-images.githubusercontent.com/100132569/165885387-f57865d9-2f22-49cd-a097-904bb2147d14.jpeg" alt="Activity_1" style="width:300px;"/>
 
 ## Profile Page
-<img src="https://user-images.githubusercontent.com/100132569/165885694-653638f0-9762-47ff-8be0-a2fb8d429853.jpeg" alt="Profile_1" style="width:300px;"/> &nbsp; &nbsp;  <img src="https://user-images.githubusercontent.com/100132569/165885692-ff2ad779-2a9b-4346-b72e-6863c6e6787a.jpeg" alt="Profile_2" style="width:300px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165885696-13b88f7f-4281-4f0e-9607-959f5e7e984b.jpeg" alt="Profile_3" style="width:300px;"/>  
+<img src="https://user-images.githubusercontent.com/100132569/165885694-653638f0-9762-47ff-8be0-a2fb8d429853.jpeg" alt="Profile_1" style="width:300px;"/> &nbsp;  <img src="https://user-images.githubusercontent.com/100132569/165885692-ff2ad779-2a9b-4346-b72e-6863c6e6787a.jpeg" alt="Profile_2" style="width:300px;"/> &nbsp; <img src="https://user-images.githubusercontent.com/100132569/165885696-13b88f7f-4281-4f0e-9607-959f5e7e984b.jpeg" alt="Profile_3" style="width:300px;"/>  
 
 ## Profile Demo
 
